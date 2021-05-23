@@ -85,7 +85,7 @@ def option3():
         option1()
     else:
         print_pause("i do not understand")
-    return answer
+        return answer
 
 
 def option2():
@@ -113,7 +113,7 @@ def option2():
         option4()
     else:
         print_pause("i do not understand")
-    return answer
+        return answer
 
 
 def option4():
@@ -135,7 +135,7 @@ def option4():
         option4()
     else:
         print_pause("please enter 1 or 2")
-    return answer
+        return answer
 
 
 def game():
